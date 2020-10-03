@@ -4,7 +4,7 @@ excerpt_separator: <!--more-->
 title: Initialization
 description: _
 permalink: et-jekyll-theme/
-date: 2020-10-04
+date: 2020-10-03
 ---
 
 琢磨了一晚上终于搞定了这个主页，感谢 et-jekyll-theme 提供的页面模板。  
