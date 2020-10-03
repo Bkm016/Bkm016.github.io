@@ -2,6 +2,7 @@
 layout: post
 excerpt_separator: <!--more-->
 title: Initialization
+description: _
 permalink: et-jekyll-theme/
 date: 2020-10-04
 ---
