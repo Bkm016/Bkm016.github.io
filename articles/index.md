@@ -1,8 +1,6 @@
 ---
 layout: articles
-title: Articles
-description: A collection of blog posts covering design and development across all mediums
+title: 文章
 ---
 
-<p>A collection of blog posts covering design and development across all mediums.</p>
-
+<p>一系列关于 TabooLib 的技术文章。</p>
