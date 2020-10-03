@@ -1,9 +1,9 @@
 ###########
 # site.title
 
-title: ET-Jekyll Theme
-description: A minimal Jekyll theme inspired by Tufte CSS
-url: https://et-jekyll.netlify.com/
+title: TabooLib Project
+description: 老坏黑的🦠库。
+url: https://tabooproject.org/
 
 
 #########################
@@ -24,9 +24,9 @@ sass:
   sass_dir: css
   style:    compressed
 
-baseurl: https://et-jekyll.netlify.com
+baseurl: https://tabooproject.org
 permalink: pretty
-timezone: America/New_York
+timezone: China/Beijing
 future: false
 
 exclude:
