@@ -1,6 +1,6 @@
 ---
 layout: articles
-title: 文章
+title: Articles
 ---
 
-<p>一系列关于 TabooLib 的技术文章。</p>
+<p>包含 TabooLib 的相关技术文章。</p>
