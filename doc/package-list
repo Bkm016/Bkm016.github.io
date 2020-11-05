@@ -22,6 +22,8 @@ io.izzel.taboolib.module.ai.internal
 io.izzel.taboolib.module.command
 io.izzel.taboolib.module.command.base
 io.izzel.taboolib.module.command.base.display
+io.izzel.taboolib.module.command.commodore
+io.izzel.taboolib.module.command.commodore.core
 io.izzel.taboolib.module.command.lite
 io.izzel.taboolib.module.compat
 io.izzel.taboolib.module.config
@@ -33,6 +35,12 @@ io.izzel.taboolib.module.db.sql
 io.izzel.taboolib.module.db.sql.query
 io.izzel.taboolib.module.db.sqlite
 io.izzel.taboolib.module.dependency
+io.izzel.taboolib.module.effect.pobject
+io.izzel.taboolib.module.effect.pobject.bezier
+io.izzel.taboolib.module.effect.pobject.equation
+io.izzel.taboolib.module.effect.utils
+io.izzel.taboolib.module.effect.utils.coordinate
+io.izzel.taboolib.module.effect.utils.projector
 io.izzel.taboolib.module.event
 io.izzel.taboolib.module.hologram
 io.izzel.taboolib.module.i18n
