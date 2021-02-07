@@ -41,6 +41,7 @@ io.izzel.taboolib.module.effect.pobject.bezier
 io.izzel.taboolib.module.effect.pobject.equation
 io.izzel.taboolib.module.effect.utils
 io.izzel.taboolib.module.effect.utils.coordinate
+io.izzel.taboolib.module.effect.utils.matrix
 io.izzel.taboolib.module.effect.utils.projector
 io.izzel.taboolib.module.event
 io.izzel.taboolib.module.hologram
@@ -49,6 +50,7 @@ io.izzel.taboolib.module.i18n.version
 io.izzel.taboolib.module.inject
 io.izzel.taboolib.module.light
 io.izzel.taboolib.module.locale
+io.izzel.taboolib.module.locale.chatcolor
 io.izzel.taboolib.module.locale.logger
 io.izzel.taboolib.module.locale.type
 io.izzel.taboolib.module.nms
